@@ -1,6 +1,6 @@
 # everyone-committed-this-repository
 Everyone committed this repository
- :)
+  :)
 
 # Contributors
 <a href="https://github.com/viniciuspereiras/everyone-committed-this-repository/graphs/contributors">
