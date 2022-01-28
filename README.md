@@ -30,4 +30,4 @@ Everyone committed this repository
 <a href="https://github.com/viniciuspereiras/everyone-committed-this-repository/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=viniciuspereiras/everyone-committed-this-repository" />
 </a>
-  
+   
