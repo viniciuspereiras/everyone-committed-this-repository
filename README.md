@@ -1,5 +1,6 @@
 ## Everyone committed this repository
 Yes, everyone "committed" this repository.
+I made this repositoty to show a feature on GitHub that can be used for impersionation, as a PoC I made a lot of commits impersionating random users.
 ## What is?
 I got a lot of people to commit and make changes to this repository.
 GIT was created for software versioning and GitHub is a platform that supports this versioning using GIT.
